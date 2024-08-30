@@ -1,6 +1,4 @@
-			# Intelligence-Driven Computer Network Defense
-Informed by Analysis of Adversary Campaigns and
-Intrusion Kill Chains
+			## Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
 
 
 (ATP)advanced persistent threat. Conventional incident response fails to mitigate the risk posed by ATP because they make 2 flawed assumptions, one is response should happen after the point of compromise and the compromise was the result of a fixable flaw. This paper describes an intelligent-driven, threat focused approach to study intrusion from adversary’s perspective. The phase “kill chain” describes the structure of the intrusion and guides based on analysis to inform actionable security intelligence. 
