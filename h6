@@ -1,6 +1,0 @@
-
-## x) Read or watch and summarize (This subtask x does not require tests with a computer. Some bullets per article is enough for your summary, feel free to write more if you like)
- € Schneier 2015: Applied Cryptography: 2.3 One-Way Functions and 2.4 One-Way Hash Functions.
-## a) Install Hashcat. Test it with a sample hash. See Karvinen 2022: Cracking Passwords with Hashcat
-## b) Crack this hash: d595b2086532422bbe654bc07ea030df
-## m) Voluntary: Compile John the Ripper, Jumbo version. Karvinen 2023: Crack File Password With John.
